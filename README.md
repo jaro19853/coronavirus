@@ -1,3 +1,3 @@
 # coronavirus
 COVID-19 PREDICTION CASES
-Predictions of cases
+Predictions of cases Covid19
